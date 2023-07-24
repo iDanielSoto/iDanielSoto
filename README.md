@@ -4,5 +4,5 @@
 </h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=iDanielSoto&color=blue&style=flat-square" alt="iDanielSoto"/>
 </p>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iDanielSoto&show_icons=true&locale=en&layout=compact" alt="iDanielSoto"/>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielSoto&layout=donut" alt="iDanielSoto"/>
 </div>
