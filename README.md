@@ -1,4 +1,4 @@
-<h1 align="center">Dan ⭐</h1>
+# ¡Hey! Soy Dan.
 
 Desarrollador en `Python` con conocimientos en el `desarollo web` y `redes neuronales`, estudiante de Ingeniería en Sistemas Computacionales, apasionado por el `Machine Learning`.
 
