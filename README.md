@@ -1,4 +1,2 @@
-# Daniel Soto.
-
-Desarrollador full stack y estudiante de Ingeniería en Sistemas Computacionales.
-Especializado en desarrollo web y desarrollo de software, con experiencia en la creación de soluciones tecnológicas integrales y eficientes.
+<h1 align="center">Daniel Soto</h1>
+<p align="center">Desarrollador full stack y estudiante de Ingeniería en Sistemas Computacionales.</p>
