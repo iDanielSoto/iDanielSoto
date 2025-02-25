@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Experiencia</h2>
-<p align="center">Mucha.</p>
+<p align="center">5 años fortaleciendo conocimientos y resolución de problemas.</p>
 
 <h2 align="center">Tecnologías</h2>
 
