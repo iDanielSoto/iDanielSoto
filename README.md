@@ -1,12 +1,12 @@
-<h1 align="center">Daniel Soto</h1>
-
-###
-
-<p align="center">Desarrollador Full Stack <img src="http://i-love-everything.com/buttons/img/57.gif" alt="Icono"> Estudiante de Ingeniería en Sistemas Computacionales</p>
+<h1 align="left">Daniel Soto</h1>
 
 ###
 
 <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
+
+###
+
+<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales enfocado en crear software funcional, simple y eficiente.</p>
 
 ###
 
@@ -47,3 +47,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
+
+###
