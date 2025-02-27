@@ -1,5 +1,3 @@
-<h1 align="left">Daniel Soto</h1>
-
 ###
 
 <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
