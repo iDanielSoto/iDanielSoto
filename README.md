@@ -1,26 +1,10 @@
-###
-
 <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
-
-###
-
-<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales enfocado en crear software funcional, simple y eficiente.</p>
-
-###
-
+<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales. Me gusta liderar proyectos, organizar equipos y optimizar procesos para lograr soluciones eficientes.</p>
 <h3 align="left">📖 Experiencia</h3>
-
-###
-
-<p align="left">📅 Programo a diario desde el 2020</p>
-
-###
-
+<p align="left">💼 Desarrollo de aplicacióones, principalmente web
+<p align="left">🥇 Participación en concursos de programación competitiva
 <br clear="both">
-
 <h3 align="left">🖥️ Tecnologías</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
