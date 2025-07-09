@@ -2,7 +2,7 @@
 <p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales. Me gusta liderar proyectos, organizar equipos y optimizar procesos para lograr soluciones eficientes.</p>
 <h3 align="left">📖 Experiencia</h3>
 <p align="left">💼 Desarrollo de aplicaciones, principalmente web
-<p align="left">🥇 Participación en concursos de programación competitiva
+<p align="left">🎨 Diseño
 <br clear="both">
 <h3 align="left">🖥️ Tecnologías</h3>
 
