@@ -1,9 +1,8 @@
 <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
-<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales. Me gusta liderar proyectos, organizar equipos y optimizar procesos para lograr soluciones eficientes.</p>
-<h3 align="left">📖 Experiencia</h3>
-<p align="left">💼 Desarrollo de aplicaciones, principalmente web
-<p align="left">🎨 Diseño
-<br clear="both">
+<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales. Me gusta liderar proyectos y optimizar procesos para lograr soluciones eficientes.</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/716029087092834314?borderRadius=10px&hideProfile=true&bg=717fff&theme=dark)](https://discord.com/users/716029087092834314)
+
 <h3 align="left">🖥️ Tecnologías</h3>
 
 <div align="left">
@@ -26,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
