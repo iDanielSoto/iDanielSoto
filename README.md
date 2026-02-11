@@ -1,7 +1,5 @@
 <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
-<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales. Me gusta liderar proyectos y optimizar procesos para lograr soluciones eficientes.</p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/716029087092834314?borderRadius=10px&hideProfile=true&bg=717fff&theme=dark)](https://discord.com/users/716029087092834314)
+<p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales.</p>
 
 <h3 align="left">🖥️ Tecnologías</h3>
 
