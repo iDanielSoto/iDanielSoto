@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  />
+<!-- <img align="left" height="200" src="https://files.filebeam.xyz/SHBPNj.png"  /> -->
 <p align="left">Desarrollador Full Stack y estudiante de Ingeniería en Sistemas Computacionales.</p>
 
 <h3 align="left">🖥️ Tecnologías</h3>
